@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Behrouz Yousefzadeh — Backend and AI Engineer" width="100%">
+<img src="/profile-banner.svg" alt="Behrouz Yousefzadeh — Backend and AI Engineer" width="100%">
 
 # Hi, I'm Behrouz Yousefzadeh 👋
 
