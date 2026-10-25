@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Behrouz Yousefzadeh — Backend and AI Engineer</title>
+  <desc id="desc">A dark professional banner with abstract connected nodes representing backend systems and machine learning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#111d35"/>
+      <stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <g stroke="#60a5fa" stroke-opacity=".24" stroke-width="2" fill="none">
+    <path d="M780 55 L900 115 L1030 65 L1130 145 L1020 225 L880 205 L780 265"/>
+    <path d="M900 115 L880 205 M1030 65 L1020 225 M1130 145 L1200 105 M1020 225 L1140 285"/>
+    <path d="M740 150 L780 55 M740 150 L780 265 M740 150 L900 115 M740 150 L880 205"/>
+  </g>
+  <g fill="#0f172a" stroke="url(#accent)" stroke-width="3">
+    <circle cx="780" cy="55" r="9"/><circle cx="900" cy="115" r="11"/>
+    <circle cx="1030" cy="65" r="8"/><circle cx="1130" cy="145" r="12"/>
+    <circle cx="1020" cy="225" r="10"/><circle cx="880" cy="205" r="8"/>
+    <circle cx="780" cy="265" r="10"/><circle cx="1140" cy="285" r="7"/>
+    <circle cx="740" cy="150" r="13"/>
+  </g>
+  <text x="72" y="100" fill="#93c5fd" font-family="Segoe UI, Arial, sans-serif" font-size="19" letter-spacing="4">PYTHON • BACKEND • AI</text>
+  <text x="68" y="165" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Behrouz Yousefzadeh</text>
+  <text x="72" y="211" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="23">Backend Development  /  Machine Learning  /  Automation</text>
+  <rect x="72" y="245" width="270" height="4" rx="2" fill="url(#accent)"/>
+</svg>
