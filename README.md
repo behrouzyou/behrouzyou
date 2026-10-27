@@ -98,7 +98,7 @@ A few repositories from my learning and development work. Open each repository f
 | **Django Cloth Online Shop** | Django ecommerce application | [View repository](https://github.com/behrouzyou/Django-Cloth-Onlineshop) |
 | **Django Shop** | Shop application and backend practice | [View repository](https://github.com/behrouzyou/Django-Shop-Maktabkhooneh) |
 | **Django Blog** | Blog application with Django | [View repository](https://github.com/behrouzyou/My_Blog_Django) |
-| **Breast Cancer ML** | Supervised learning and model evaluation | [View repository](https://github.com/behrouzyou/ML-Breast-Cancer) |
+| **RAG_Project** | RAG Project — From Scratch | [View repository](https://github.com/behrouzyou/RAG_Project) |
 | **Unsupervised Learning** | Machine learning experiments | [View repository](https://github.com/behrouzyou/ML-UnSupervise) |
 | **MNIST Image Reconstruction** | Deep learning / image reconstruction | [View repository](https://github.com/behrouzyou/mnist-dl-img-recon) |
 | **CNN ImageNet Mini** | CNN image classification practice | [View repository](https://github.com/behrouzyou/cnn-imagnet-mini) |
